@@ -247,6 +247,10 @@ Beamforming is a foundational technology that works hand in glove with massive M
 
 1.**RAN(Radio access network)**
 
+
+radio access network (RAN) is a major component of a wireless telecommunications system that connects individual devices to other parts of a network through a radio link. 
+![image](https://github.com/Rjesh2006/5G---For-Everyone-/assets/143868643/053988ab-08a8-41c8-b357-a97e1dff3d6c)
+
    
 
 
