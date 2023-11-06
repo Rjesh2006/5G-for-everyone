@@ -251,6 +251,23 @@ radio access network (RAN) is a major component of a wireless telecommunications
 
 ![image](https://github.com/Rjesh2006/5G---For-Everyone-/assets/143868643/053988ab-08a8-41c8-b357-a97e1dff3d6c)
 
+
+
+2.**VRAN**
+
+vRAN enables consistent operability across various vRAN functions as well as network functions deployed throughout 5G networks, from the core, edge, to RAN. Additionally, vRAN delivers superior protection from security threats than the conventional parameter-based and reactive security approaches.
+
+
+
+ *why vRAN *
+ ![image](https://github.com/Rjesh2006/5G---For-Everyone-/assets/143868643/f34c94d3-5a97-4cd6-9798-2df99a7b87c5)
+
+- vRANs provide better visibility and control when compared to other forms of RAN which allow businesses to have more reliable connections and set app-specific service levels across their network.
+
+
+
+
+    
    
 
 
