@@ -143,9 +143,24 @@ For fifth generation (5G), two different channel coding techniques have been cho
 
 
 
+5.**mAssive mimo**
+
+The massive MIMO remains one of the key technology components of 5G communication network, wherein the system architecture exploits significantly enhanced number of antennas at the base transceiver stations, as compared to the systems imple- mented in other lower generation (e.g. 3G or 4G) communication networks [5].
+
+ *Usecases* :-
+ 
+ The large number of antennae in a Massive MIMO system enables 3D beamforming, which creates both horizontal and vertical beams toward users, increasing data rates (and capacity) for all users — particularly useful in urban areas with high-rise buildings.
 
 
 
+6.**MM WAVE (MILIMETER WAVE )**
+
+5G mmWave is an innovative cellular technology that provides access to the large bandwidth and capacity available in the frequency band above 24GHz. 
+
+
+7.**Network slicing**
+
+5G network slicing is a network architecture that enables the multiplexing of virtualized and independent logical networks on the same physical network infrastructure. Each network slice is an isolated end-to-end network tailored to fulfill diverse requirements requested by a particular application.
 
 
 
