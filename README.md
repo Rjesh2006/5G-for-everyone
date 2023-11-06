@@ -9,6 +9,9 @@
 
   2.*Why 5G Network is needed ?*
 
+  ![image](https://github.com/Rjesh2006/5G---For-Everyone-/assets/143868643/5aec415d-230e-40d9-b97b-d22cdb6c374d)
+
+
 The main advantages of the 5G are a greater speed in the transmissions, a lower latency and therefore greater capacity of remote execution, a greater number of connected devices and the possibility of implementing virtual networks (network slicing), providing more adjusted connectivity to concrete needs.
 
 
@@ -309,10 +312,20 @@ Massive IoT, aka massive Machine-Type Communications (mMTC) in the 5G world, def
 
 
 ## [Module - 8 ]()
+ # Security of 5G 
 
-
-
+ 1.**security in 5G**
  
-  
+5G Security Architecture. The security architecture of 5G relies on advanced technologies such as network slicing, virtualization and cloud-based resources. These technologies allow enterprises to take advantage of major performance benefits.
+ 
+
+
+ 2.**5G security Design**
+
+  ![image](https://github.com/Rjesh2006/5G---For-Everyone-/assets/143868643/6c59f568-246b-4458-af28-e674364b2e3c)
+
+
+
+
  
    
