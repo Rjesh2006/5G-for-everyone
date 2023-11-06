@@ -38,11 +38,11 @@ It works by using something called a Voice over Internet Protocol (VoIP). It con
 
  4.**Carrier waves and light waves**
     
-    *carrier waves* 
+   *carrier waves* 
     
-    carrier wave is the continuous electromagnetic radiation,  of constant amplitude and frequency, that is given out by a transmitter
+   carrier wave is the continuous electromagnetic radiation,  of constant amplitude and frequency, that is given out by a transmitter
     
-    *light waves*
+   *light waves*
     
  In telecommunications, visible light communication (VLC) is the use of visible light (light with a frequency of 400–800 THz/wavelength of 780–375 nm) as a transmission medium. VLC is a subset of optical wireless communications technologies.
 
