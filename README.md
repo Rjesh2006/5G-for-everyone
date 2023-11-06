@@ -266,9 +266,13 @@ vRAN enables consistent operability across various vRAN functions as well as net
 
 
 
+ **Traditional Ran or ( oprn Ran ) **
 
-    
+ - Until Open RAN, the RAN was a         monolithic system bought from a        single vendor and not very flexible. 
    
+**Traditional oran vs traditional ran **
+ - ![image](https://github.com/Rjesh2006/5G---For-Everyone-/assets/143868643/949892de-229d-40ba-a925-7f253325a5f8)
+
 
 
  
