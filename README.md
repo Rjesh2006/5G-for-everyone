@@ -77,7 +77,34 @@ A data pipeline is a method in which raw data is ingested from various data sour
 
 
 
-10.****
+10.**whats Fdd and ,Tdd**
+  
+   *Fdd :-* 
+   
+  Frequency-division  duplexing (FDD)  is a method for establishing a full-  duplex communications link that uses two different radio frequencies for transmitter and receiver operation.
+
+  
+      
+   *Tdd:-*
+   
+   Time division duplex (TDD) refers to duplex communication where uplink is separated from downlink by the allocation of different time slots in the same frequency band.
+
+   **Difference b/w FDD and TDD**
+      ![image](https://github.com/Rjesh2006/5G---For-Everyone-/assets/143868643/baa7cf3f-b7d7-4157-9ed3-e891bb776316)
+      
+
+
+11.**The celluelar concept**
+
+Cellular Concepts refers to the use of a group of cells to provide communication from one place to another place when the user is mobile. A cellular system in mobile computing implements space division multiplexing or SDM. Each transmitter in the cellular system is called a base station.
+
+
+
+12.**5G-NR**
+
+5G New Radio (NR) is the global standard for a unified, more capable 5G wireless air interface. It is delivering significantly faster and more responsive mobile experiences.
+
+
 
 
 
