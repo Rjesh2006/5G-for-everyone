@@ -18,7 +18,7 @@ The main advantages of the 5G are a greater speed in the transmissions, a lower 
 
 # Module wise Keywords 🗝️ of 5G network:-#
 
-## Module -1
+## Module - 1
  1.**cellular networking**
 
   It's a mobile-based network used with a radio antenna. These devices are associated with “cell”s and can move from cell to cell in order to communicate and maintain communication.
@@ -98,11 +98,28 @@ A data pipeline is a method in which raw data is ingested from various data sour
 
 Cellular Concepts refers to the use of a group of cells to provide communication from one place to another place when the user is mobile. A cellular system in mobile computing implements space division multiplexing or SDM. Each transmitter in the cellular system is called a base station.
 
-
+## Module - 2
 
 12.**5G-NR**
 
 5G New Radio (NR) is the global standard for a unified, more capable 5G wireless air interface. It is delivering significantly faster and more responsive mobile experiences.
+
+
+13.**5G - NR classes**
+
+  *eMBB:-* 
+  Enhanced mobile broadband (eMBB), also known as extreme mobile broadband, is one of the three defining characteristics of 5G—the other two being massive capacity and ultra-low latency.
+
+  *m -MTC:-*
+  
+  5G mMTC. The service category called massive machine-type communication (mMTC) supports massive device connectivity in IoT applications. 5G mMTC uses non-human-type communication models that prioritize low-rate, uplink-centric transmission.
+
+  *URLLC:-*
+  
+  URLLC is one of the main features that makes 5G a better performer than 4G. It guarantees faster and richer services as the lower latency allows a network to process large amounts of data with minimal delay. 
+  
+  
+  
 
 
 
