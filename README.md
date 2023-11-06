@@ -164,3 +164,53 @@ The massive MIMO remains one of the key technology components of 5G communicatio
 
 
 
+8.**SDN AND NFV**
+
+SDN separates the data and control planes, which enables operators to manage features from a centralized location. NFV, too, is a process involving separation. 
+
+
+
+9.**Mobile Edge Computing ( MEC)**
+
+MEC is to reduce latency, ensure highly efficient network operation and service delivery, and improve the customer experience.
+
+
+
+4. ## ## [Module - 4 ]()
+   ## Spectrum and mmWave
+
+1.**The 5G NR Network**
+
+
+5G NR (New Radio) is a new radio access technology (RAT) developed by the 3rd Generation Partnership Project (3GPP) for the 5G (fifth generation) mobile network. It was designed to be the global standard for the air interface of 5G networks.
+
+
+
+2.**advantages and disadvantages behind mmwave Deployments**
+
+***Advantages of mmWave***
+
+- .The extremely wide bandwidth and narrow beam of millimeter wave communication.
+
+Millimeter wave frequency range is 26.5～300GHz, and the bandwidth is as high as 273.5GHz, which is more than 10 times the full bandwidth from DC to microwave.
+
+- .Strong mmWave detection capability and good security.
+
+Broadband and broad-spectrum capabilities can be used to suppress multipath effects and clutter echoes. There are a large number of frequencies available to effectively eliminate mutual interference.
+
+- .High millimeter wave transmission quality, small component size and all-weather communication
+
+Because there are basically no interference sources in high-frequency millimeter wave communications, and the electromagnetic spectrum is extremely clean, the millimeter wave channel is very stable and reliable, and its bit error rate can be maintained at the order of 10-12 for a long time, which is comparable to the transmission quality of optical cables.
+
+
+
+***Disadvantages of mmWave***
+
+1.Devices equipped to use the millimeter frequency specification would also suffer from intensive power consumption, especially when connected to the fifth-generation network
+
+2.Deploying mmWave 5G networks is fundamentally more expensive than deploying 5G networks based on the sub-6 GHz specification because of the need to place several smaller cells in strategic locations to ensure maximum coverage.
+
+3.Compatibility is another drawback
+
+ 
+   
