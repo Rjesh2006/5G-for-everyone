@@ -278,7 +278,7 @@ vRAN enables consistent operability across various vRAN functions as well as net
 
 
 
-## [Module - 6 ]()
+## [Module - 7 ]()
 
 # 5G private network and industrial - Iot
 
