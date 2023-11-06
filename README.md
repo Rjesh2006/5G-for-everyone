@@ -301,6 +301,15 @@ Industrial IoT is an ecosystem of devices, sensors, applications, and associated
 
    
 
+5.**Massive Iot**
+
+Massive IoT, aka massive Machine-Type Communications (mMTC) in the 5G world, defines applications with lots of endpoints that continuously serve little bits of data, mostly infrequently and to even remote locations.
+![image](https://github.com/Rjesh2006/5G---For-Everyone-/assets/143868643/9793317a-8d28-4c21-89ab-348902d6bfa7)
+
+
+
+## [Module - 8 ]()
+
 
 
  
