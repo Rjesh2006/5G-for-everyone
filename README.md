@@ -16,7 +16,7 @@ The main advantages of the 5G are a greater speed in the transmissions, a lower 
 
 
 
-# Module wise Keywords 🗝️ of 5G network:-#
+# Module wise Keywords 🗝️ of 5G network:-
 
 ## Module - 1
  1.**cellular networking**
@@ -41,13 +41,13 @@ It works by using something called a Voice over Internet Protocol (VoIP). It con
     
     *light waves*
     
-    In telecommunications, visible light communication (VLC) is the use of visible light (light with a frequency of 400–800 THz/wavelength of 780–375 nm) as a transmission medium. VLC is a subset of optical wireless communications technologies.
+ In telecommunications, visible light communication (VLC) is the use of visible light (light with a frequency of 400–800 THz/wavelength of 780–375 nm) as a transmission medium. VLC is a subset of optical wireless communications technologies.
 
 
 
 5. **wireles transmission**
 
-   Wireless communications is the transmission of voice and data without cable or wires. In place of a physical connection, data travels through electromagnetic signals broadcast from sending facilities to intermediate and end-user devices.
+Wireless communications is the transmission of voice and data without cable or wires. In place of a physical connection, data travels through electromagnetic signals broadcast from sending facilities to intermediate and end-user devices.
 
 
 
