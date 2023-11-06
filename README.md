@@ -134,8 +134,12 @@ The evolution of the mobile world is not all that 5G is, therefore the breadth o
 2.**Flexible slot based framework**
 
 the  flexible slot based frame works is used to allows network operators to efficiently multiplex the envisioned 5G services on the same frequency. A key technology to deliver this flexible framework is the 5G NR self- contained slot structure.
+3.**oFDM**
 
-3.****
+
+4.**Channel ciding in 5G**
+
+For fifth generation (5G), two different channel coding techniques have been chosen by third generation partnership project for error-free data transmission. In the 5G standard, the data and control channels use low-density parity check (LDPC) and polar codes, respectively, due to their
 
 
 
