@@ -242,7 +242,12 @@ The massive MIMO remains one of the key technology components of 5G communicatio
 Beamforming is a foundational technology that works hand in glove with massive MIMO to direct beams of transmission data both horizontally and vertically toward user devices.
 
 
+6. ## [Module - 6 ]()
+   # 5G Radio Access network
 
+1.**RAN(Radio access network)**
+
+   
 
 
  
