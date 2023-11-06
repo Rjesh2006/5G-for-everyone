@@ -275,6 +275,34 @@ vRAN enables consistent operability across various vRAN functions as well as net
 
 
 
+## [Module - 6 ]()
+
+# 5G private network and industrial - Iot
+
+1.**private metwork**
+
+private 5G network is a mobile network that functions similarly to a public 5G network, but allows the owner to provide restricted access and use licensed or unlicensed wireless spectrum.
+
+2.**Benefits of private network**
+
+Private 5G networks benefit from significantly increased network speed, higher bandwidth, and lower latency. Increased reliability. Private 5G can provide high network reliability, with better coverage over a larger area, a greater amount of connected devices, and more consistent performance. Improved security.
+
+3.**Industrial- Iot**
+
+Industrial IoT is an ecosystem of devices, sensors, applications, and associated networking equipment that work together to collect, monitor, and analyze data from industrial operations. 
+
+![image](https://github.com/Rjesh2006/5G---For-Everyone-/assets/143868643/7c4e76d8-ba83-421f-a0e4-ec6960a29094)
+
+
+
+4.**5G in industrial - Iot**
+
+5G delivers a number of capabilities that enable advanced industrial use cases (including isochronous real-time motion control, sensor systems for monitoring critical processes, and AR/VR applications) for deployment over a single wireless communication system.
+
+   
+
+
+
  
   
  
