@@ -15,10 +15,6 @@
 The main advantages of the 5G are a greater speed in the transmissions, a lower latency and therefore greater capacity of remote execution, a greater number of connected devices and the possibility of implementing virtual networks (network slicing), providing more adjusted connectivity to concrete needs.
 
 
-  3.*difference b/w 4G and 5G*
-
-
-
 # Module wise Keywords 🗝️ of 5G network:-
 
 ## [Module - 1]()
