@@ -19,5 +19,15 @@ The main advantages of the 5G are a greater speed in the transmissions, a lower 
 # Module wise Keywords 🗝️ of 5G network:-#
 
 ## Module -1
- 1.
+ 1.*cellular networking*
+
+  It's a mobile-based network used with a radio antenna. These devices are associated with “cell”s and can move from cell to cell in order to communicate and maintain communication.
+
+ 2.*Network generation *
+
+ A network generation is a type of   cellular network generally referred to by its number, starting with 1G and going all the way through 2G, 3G, and 4G to the most recent developed generation: 5G.
+
+ 
+ 3.*
+ 
 
