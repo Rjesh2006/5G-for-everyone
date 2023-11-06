@@ -1,6 +1,6 @@
 # [Here i have written Summary of 5G---For-Everyone:-]()👇
 
- ## [General questions about 5G network]
+ ## General questions about 5G network:
 
   1.*whats 5G network*
 
