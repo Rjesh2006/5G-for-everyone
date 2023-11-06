@@ -28,7 +28,7 @@ The main advantages of the 5G are a greater speed in the transmissions, a lower 
  A network generation is a type of   cellular network generally referred to by its number, starting with 1G and going all the way through 2G, 3G, and 4G to the most recent developed generation: 5G.
 
  
- 3.**Digital voice**
+ 3.**Digital voice** 
 
 It works by using something called a Voice over Internet Protocol (VoIP). It converts your voice into a digital signal so it can be sent between devices over the internet.
 
