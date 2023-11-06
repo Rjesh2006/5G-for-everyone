@@ -176,7 +176,7 @@ MEC is to reduce latency, ensure highly efficient network operation and service 
 
 
 
-4. ## ## [Module - 4 ]()
+4. ## [Module - 4 ]()
    ## Spectrum and mmWave
 
 1.**The 5G NR Network**
@@ -190,27 +190,62 @@ MEC is to reduce latency, ensure highly efficient network operation and service 
 
 ***Advantages of mmWave***
 
-- .The extremely wide bandwidth and narrow beam of millimeter wave communication.
+- The extremely wide bandwidth and narrow beam of millimeter wave communication.Millimeter wave frequency range is 26.5～300GHz, and the bandwidth is as high as 273.5GHz, which is more than 10 times the full bandwidth from DC to microwave.
+Strong mmWave detection capability and good security.
 
-Millimeter wave frequency range is 26.5～300GHz, and the bandwidth is as high as 273.5GHz, which is more than 10 times the full bandwidth from DC to microwave.
+- Broadband and broad-spectrum capabilities can be used to suppress multipath effects and clutter echoes. There are a large number of frequencies available to effectively eliminate mutual interference.
 
-- .Strong mmWave detection capability and good security.
-
-Broadband and broad-spectrum capabilities can be used to suppress multipath effects and clutter echoes. There are a large number of frequencies available to effectively eliminate mutual interference.
-
-- .High millimeter wave transmission quality, small component size and all-weather communication
-
-Because there are basically no interference sources in high-frequency millimeter wave communications, and the electromagnetic spectrum is extremely clean, the millimeter wave channel is very stable and reliable, and its bit error rate can be maintained at the order of 10-12 for a long time, which is comparable to the transmission quality of optical cables.
+- .High millimeter wave transmission quality, small component size and all-weather communication Because there are basically no interference sources in high-frequency millimeter wave communications, and the electromagnetic spectrum is extremely clean, the millimeter wave channel is very stable and reliable, and its bit error rate can be maintained at the order of 10-12 for a long time, which is comparable to the transmission quality of optical cables.
 
 
 
 ***Disadvantages of mmWave***
 
-1.Devices equipped to use the millimeter frequency specification would also suffer from intensive power consumption, especially when connected to the fifth-generation network
+- Devices equipped to use the millimeter frequency specification would also suffer from intensive power consumption,especially when connected to the fifth-generation network
 
-2.Deploying mmWave 5G networks is fundamentally more expensive than deploying 5G networks based on the sub-6 GHz specification because of the need to place several smaller cells in strategic locations to ensure maximum coverage.
+- Deploying mmWave 5G networks is fundamentally more expensive than deploying 5G networks based on the sub-6 GHz specification because of the need to place several smaller cells in strategic locations to ensure maximum coverage. Compatibility is another drawback
 
-3.Compatibility is another drawback
 
+
+3.**multimeter wave deployment for urban areas**
+
+Mobile operators are deploying 5G mmWave in crowded urban areas, such as sports arenas, stadiums, airports, concerts and other large venues. Operating at frequencies of 24 GHz and higher, these 5G Frequency Range 2 (FR2) networks are able to deliver multi-gigabit data rates and very low latency.
+
+
+  **multimeter wave for Suburban areas**
+
+
+
+ 4.**indoor and venue deployment of mm waves (multimeter waves)**
+
+ ![image](https://github.com/Rjesh2006/5G---For-Everyone-/assets/143868643/2a66e201-fdae-418a-a98d-53b8574ac15f)
+
+ An expected deployment scenario for 5G mmWave would be to provide increased capacity in high-demand public spaces and venues. With cell sizes around 100m, small 5G mmWave access points can be placed on poles or buildings to provide the required coverage.
+
+
+
+## [Module - 5 ]()
+# Massive Mimo
+
+1.**Massive mimo**
+
+The massive MIMO remains one of the key technology components of 5G communication network, wherein the system architecture exploits significantly enhanced number of antennas at the base transceiver stations, as compared to the systems implemented in other lower generation (e.g. 3G or 4G) communication networks.
+
+  *M-mimo Antenna Arrays*
+  
+  - MIMO is frequently used in a variety of systems to significantly enhance channel capacities. Compact array antennas are widely used because of space limitations and aesthetic factors. A MIMO array with a gain of 2.5 dBi and a bandwidth ranging from 3.2 to 4 GHz.
+
+2.**Beamforming**
+
+![image](https://github.com/Rjesh2006/5G---For-Everyone-/assets/143868643/095905f3-4ba6-438d-9fc4-330543d000e7)
+
+Beamforming is a foundational technology that works hand in glove with massive MIMO to direct beams of transmission data both horizontally and vertically toward user devices.
+
+
+
+
+
+ 
+  
  
    
