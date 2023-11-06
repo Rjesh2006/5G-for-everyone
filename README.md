@@ -120,6 +120,25 @@ Cellular Concepts refers to the use of a group of cells to provide communication
   
   
   
+## Module - 3 
+# 5G Network and Features
+
+1.**5G - NR Neteork architecture**
+
+The fifth generation mobile network is a new global wireless standard after 1G, 2G, 3G, and 4G networks delivering up to 20 Gigabits-per-second (Gbps) peak data rates and 100+ Megabits-per-second (Mbps) average data rates. 5G will use orthogonal frequency-division multiplexing (OFDM) encoding bonded up to between 100 and 800 MHz channels.
+
+The evolution of the mobile world is not all that 5G is, therefore the breadth of 5G extends beyond mobile communication to address all forms of communication services; in fact, it is truly supporting the future of the digital world by enabling all types of services, including critical/non-critical, voice/non-voice, and IoT. Promoting economic change across all sectors and utilizing all diverse technologies ( WiFi, 4G, and new radio technologies).
+
+- ![image](https://github.com/Rjesh2006/5G---For-Everyone-/assets/143868643/ba38fb1f-a1d2-42a7-9699-ac6f4c6b1313)
+
+2.**Flexible slot based framework**
+
+the  flexible slot based frame works is used to allows network operators to efficiently multiplex the envisioned 5G services on the same frequency. A key technology to deliver this flexible framework is the 5G NR self- contained slot structure.
+
+3.****
+
+
+
 
 
 
