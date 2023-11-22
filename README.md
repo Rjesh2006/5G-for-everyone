@@ -524,4 +524,5 @@ The provided images offer detailed visual representations of the 5G system, show
 - Each process transmits a data unit and waits for feedback before transmitting the next data unit.
 
 ![HARQ Process Image](https://github.com/raunakkk21/5G-for-everyone/assets/143111163/161ad402-0777-49ee-8138-688a54ed697c)
-![HARQ Timing Image](https://github.com/raunak
+![HARQ Timing Image]
+
