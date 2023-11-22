@@ -491,7 +491,6 @@ The provided images offer detailed visual representations of the 5G system, show
 - Multiplexing/demultiplexing for CA
 - MAC layer provides services to RLC through logical channels
 
-![MAC Image](https://github.com/raunakkk21/5G-for-everyone/assets/143111163/82774570-22eb-4abb-817c-00c3c92fa7b2)
 
 - Logical channels are defined by the type of information they carry.
 - Transport channels are defined by how and what characteristics information is transmitted over.
@@ -513,16 +512,12 @@ The provided images offer detailed visual representations of the 5G system, show
 - DL-SCH: Main transport channel for downlink data in NR.
 - UL-SCH: Uplink counterpart of downlink shared channel.
 
-![Channels Image](https://github.com/raunakkk21/5G-for-everyone/assets/143111163/1b30dfce-256e-429c-b59f-bc56700db6c6)
 
 ## Hybrid-ARQ (HARQ)
 
 - Main mechanism for transmission in 5G, supporting error correction using channel coding and retransmission when error cannot be corrected.
 
-![HARQ Image](https://github.com/raunakkk21/5G-for-everyone/assets/143111163/f0b05960-9498-43d6-8cd8-6c239bf67dc3)
 
-- Each process transmits a data unit and waits for feedback before transmitting the next data unit.
 
-![HARQ Process Image](https://github.com/raunakkk21/5G-for-everyone/assets/143111163/161ad402-0777-49ee-8138-688a54ed697c)
-![HARQ Timing Image]
+- Each process transmits a data unit and waits for feedback before transmitting the next data unit
 
