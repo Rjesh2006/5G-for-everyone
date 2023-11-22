@@ -362,3 +362,60 @@ The Policy Control Function (PCF) is a critical component supporting various fun
 The provided images offer detailed visual representations of the 5G system, showcasing network architecture, control and user planes, and the interplay of various components. These visuals provide an in-depth understanding of the intricate details of the 5G ecosystem, aiding in comprehensive system comprehension and analysis.
 
 
+
+
+# 5G Deployment Options
+
+## Overview
+- **EPC (Evolved Packet Core):** Key component in 5G deployment.
+- Currently reliant on 4G LTE (eNodeB) for voice calls and 5G (gNodeB) for internet access.
+- Various modification options exist for optimizing the system.
+
+## Options
+### Option 3
+- Core network sends data to eNodeB, splitting it between UE and gNodeB.
+- eNodeB sends data at smaller rates, while gNodeB sends it at a higher rate.
+
+#### Option 3a
+- Direct data transfer from core network to gNodeB at a higher rate, but with disadvantages for voice calls.
+
+#### Option 3x
+- Combination of options 3 and 3a, with communication between eNB and gNB and data sent to UE.
+
+### Option 6
+- Not officially supported.
+
+## Stand Alone and Non-Stand Alone
+- Different deployment options categorized into Stand Alone (Option 1, 2) and Non-Stand Alone (Option 3, 4, 7).
+
+# 5G NR (New Radio)
+
+## RAN Protocol Stack
+- Two types: UPPS (user data) and CPPS (control information).
+- SDAP layer supports quality of service.
+
+### User Plane Protocol Stack
+1. **Physical Layer (PHY):** Efficient wireless communication.
+2. **MAC Layer:** Retransmission, multiplexing, scheduling.
+3. **RLC Layer:** ARQ (Automatic Repeat Query) segmentation.
+4. **PDCP Layer:** Header compression, ciphering, integrity protection, duplicate removal.
+5. **SDAP Layer:** Quality of service.
+
+### Control Plane Protocol Stack
+1. **NAS (Non Access Stratum):** Authentication, security, idle mode procedures, IP address assignment.
+2. **RRC (Radio Resource Control):** System information, radio bearers, measurement configuration.
+
+## SDAP (Service Data Adaptation Protocol)
+- Types of traffic and QoS flows explained.
+
+### Types of Traffic
+- Differentiates between Guaranteed Bit Rate (GBR) and Non-GBR QoS flows.
+
+### QoS Flows
+- Additional QoS flows established when triggered by corresponding applications.
+
+### QoS Flow Types
+- **GBR:** Guaranteed bit rate QoS flow.
+- **Non-GBR:** Used for bursty traffic.
+
+
