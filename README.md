@@ -324,7 +324,7 @@ Massive IoT, aka massive Machine-Type Communications (mMTC) in the 5G world, def
 
 # [5G master class module:-]()👇
 
-# The 5G System Overview
+# The 5G System summary 
 
 ## Standardization of 5G
 Ensuring global compatibility is a critical aspect of the 5G system. The International Telecommunication Union (ITU) is at the forefront of standardization efforts. ITU-T, responsible for telecommunication standards, ensures that 5G technologies adhere to globally accepted specifications. ITU-R focuses on wireless communication, emphasizing the need for seamless connectivity across diverse environments. Additionally, ITU-D plays a crucial role in telecommunication development, fostering inclusivity and accessibility worldwide.
