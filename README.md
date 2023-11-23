@@ -515,10 +515,9 @@ The provided images offer detailed visual representations of the 5G system, show
 ## Hybrid-ARQ (HARQ)
 
 - Main mechanism for transmission in 5G, supporting error correction using channel coding and retransmission when error cannot be corrected.
-
-
-
 - Each process transmits a data unit and waits for feedback before transmitting the next data unit
 
 
-
+# PHY ( physical layer)
+ ## function of physical layer
+ - 
