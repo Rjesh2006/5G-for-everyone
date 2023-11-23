@@ -425,10 +425,10 @@ The provided images offer detailed visual representations of the 5G system, show
 # 5G QoS Identifiers (5QI)
 
 
-## Multiplexing
+ ## Multiplexing
 
 
-## Uplink QoS
+ ## Uplink QoS
 
 - **Reflective Mapping:** Device uses the same QoS flow and radio bearer as in downlink.
 - **Explicit Mapping:** Device is configured to use specific QoS flow and uplink bearer using RRC signaling.
@@ -436,7 +436,7 @@ The provided images offer detailed visual representations of the 5G system, show
 
 # PDCP (Packet Data Convergence Protocol)
 
-## Functions of PDCP
+ ## Functions of PDCP
 
 
 
@@ -459,7 +459,7 @@ The provided images offer detailed visual representations of the 5G system, show
 
 # RLC (Radio Link Control)
 
-## Functions of RLC
+ ## Functions of RLC
 
 ![image](https://github.com/Rjesh2006/5G---For-Everyone-/assets/143868643/43dc603b-eb7b-44a1-9c2f-6645917cef06)
 
@@ -496,7 +496,7 @@ The provided images offer detailed visual representations of the 5G system, show
 - Transport channels are defined by how and what characteristics information is transmitted over.
 
 
-## Logical Channels
+ ## Logical Channels
 
 - PCCH: Paging of devices with unknown location to the network.
 - BCCH: Transport of network information from network to all cells.
@@ -504,7 +504,7 @@ The provided images offer detailed visual representations of the 5G system, show
 - DTCH: Transmission of user data to and from devices, handling a significant amount of data traffic.
 - DCCH: Transfer of control information to devices.
 
-## Transport Channels
+ ## Transport Channels
 
 - PCH: Transport of paging information from PCCH in logical channels.
 - BCH: Transport of BCCH, specifically the master information block.
@@ -512,7 +512,7 @@ The provided images offer detailed visual representations of the 5G system, show
 - UL-SCH: Uplink counterpart of downlink shared channel.
 
 
-## Hybrid-ARQ (HARQ)
+ ## Hybrid-ARQ (HARQ)
 
 - Main mechanism for transmission in 5G, supporting error correction using channel coding and retransmission when error cannot be corrected.
 - Each process transmits a data unit and waits for feedback before transmitting the next data unit
@@ -520,4 +520,5 @@ The provided images offer detailed visual representations of the 5G system, show
 
 # PHY ( physical layer)
  ## function of physical layer
- - 
+ - The physical layer in a communication system, including 5G (fifth generation), is responsible for the transmission and reception of the raw data bits over the physical medium, such as radio waves in the case of wireless communication. The physical layer defines how the digital bits are converted into analog signals for transmission and how received analog signals are converted back into digital bits.
+ - In the context of 5G, the physical layer has several key features and technologies to enable high data rates, low latency, and improved reliability. Some of the key aspects of the physical layer in 5G include
