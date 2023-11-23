@@ -1,4 +1,4 @@
-# [Here i have written Summary of 5G-Technology:-]()👇
+# [Here i have written here Summary of 5G-Technology:-]()👇
 
  ## General questions about 5G network:
 
@@ -400,6 +400,9 @@ The provided images offer detailed visual representations of the 5G system, show
 3. **RLC Layer:** ARQ (Automatic Repeat Query) segmentation.
 4. **PDCP Layer:** Header compression, ciphering, integrity protection, duplicate removal.
 5. **SDAP Layer:** Quality of service.
+![image](https://github.com/Rjesh2006/5G---For-Everyone-/assets/143868643/008c999d-aad5-4ba6-b763-5c21aaa73cfa)
+
+
 
 ### Control Plane Protocol Stack
 1. **NAS (Non Access Stratum):** Authentication, security, idle mode procedures, IP address assignment.
@@ -421,42 +424,36 @@ The provided images offer detailed visual representations of the 5G system, show
 
 # 5G QoS Identifiers (5QI)
 
-![5QI Image](https://github.com/raunakkk21/5G-for-everyone/assets/143111163/9f520bc2-b042-45d5-b848-bfc77c49c214)
 
 ## Multiplexing
 
-![Multiplexing Image](https://github.com/raunakkk21/5G-for-everyone/assets/143111163/b98a51d7-c332-4249-8093-d9f62c9f6e5d)
 
 ## Uplink QoS
 
 - **Reflective Mapping:** Device uses the same QoS flow and radio bearer as in downlink.
 - **Explicit Mapping:** Device is configured to use specific QoS flow and uplink bearer using RRC signaling.
 
-![Uplink QoS Image](https://github.com/raunakkk21/5G-for-everyone/assets/143111163/5ce1e10b-a2a2-4b66-9902-62160166231f)
 
 # PDCP (Packet Data Convergence Protocol)
 
 ## Functions of PDCP
+
+
 
 - Header compression
 - Ciphering and integrity protection
 - Routing and duplication of split bearers
 - In-sequence delivery
 
-![PDCP Image](https://github.com/raunakkk21/5G-for-everyone/assets/143111163/3a9eb315-06d6-47bb-85a3-59477856d7b6)
 
 - PDCP performs header compression to reduce header length for wireless transmission.
 - Decompression of header size before transmission over IP protocols in the wired network is done by PDCP.
 - Header compression scheme is based on Robust Header Compression (ROHC) protocol.
 
-![Header Compression Image 1](https://github.com/raunakkk21/5G-for-everyone/assets/143111163/e748164d-f9c4-4f6e-aa6a-064bde5c2ba5)
-![Header Compression Image 2](https://github.com/raunakkk21/5G-for-everyone/assets/143111163/f0f78b07-4840-45d3-b518-579d98fb8c31)
-![Header Compression Image 3](https://github.com/raunakkk21/5G-for-everyone/assets/143111163/0c5ff28d-6784-43ae-9263-822b7ec95fe9)
 
 - In case of failure, UE's can receive data from the other bearer.
 - PDCP is responsible for discarding duplicates and selecting the packet in the receiving side.
 
-![Duplicate Handling Image](https://github.com/raunakkk21/5G-for-everyone/assets/143111163/c48cee56-0049-4ed4-818b-89bf31bc3a7c)
 
 - PDCP acts as a sequence number to ensure in-sequence delivery.
 
@@ -464,26 +461,29 @@ The provided images offer detailed visual representations of the 5G system, show
 
 ## Functions of RLC
 
+![image](https://github.com/Rjesh2006/5G---For-Everyone-/assets/143868643/43dc603b-eb7b-44a1-9c2f-6645917cef06)
+
+
+
 - Segmentation
 - ARQ (Automatic Repeat reQuest) - Retransmissions
 
-![RLC Image](https://github.com/raunakkk21/5G-for-everyone/assets/143111163/6f3a79b9-3463-4426-adf9-aa9369311c3c)
 
 - Transparent mode: No need for segmentation and retransmission.
 - Unacknowledged mode: Error-free delivery not required.
 - Acknowledged mode: Used for web browsing, file transfer, etc.
 
-![RLC Modes Image](https://github.com/raunakkk21/5G-for-everyone/assets/143111163/448fc7a1-d1d4-4862-8771-0a68fd117a6e)
 
 - Various bit sizes for unacknowledged and acknowledged modes.
 - Segmentation retains the same sequence number as unsegmented SDU.
 
-![RLC Segmentation Image](https://github.com/raunakkk21/5G-for-everyone/assets/143111163/c5f68186-da0a-499f-a531-b957983216b7)
-![RLC Retransmissions Image](https://github.com/raunakkk21/5G-for-everyone/assets/143111163/b699f9d9-b15c-4065-8f6a-2ab67cb32b76)
+
 
 # MAC (Medium Access Control)
 
 ## Functions of MAC
+![image](https://github.com/Rjesh2006/5G---For-Everyone-/assets/143868643/2923252a-c24a-4272-b382-0af85c66c0e8)
+
 
 - Logical channel multiplexing
 - Hybrid-ARQ retransmissions
@@ -495,7 +495,6 @@ The provided images offer detailed visual representations of the 5G system, show
 - Logical channels are defined by the type of information they carry.
 - Transport channels are defined by how and what characteristics information is transmitted over.
 
-![Logical and Transport Channels Image](https://github.com/raunakkk21/5G-for-everyone/assets/143111163/caf8c8cc-e48b-4adb-8fea-4c4bf9863608)
 
 ## Logical Channels
 
@@ -520,4 +519,6 @@ The provided images offer detailed visual representations of the 5G system, show
 
 
 - Each process transmits a data unit and waits for feedback before transmitting the next data unit
+
+
 
